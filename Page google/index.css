@@ -1,0 +1,20 @@
+header
+{
+	background-color: lightgrey;
+}
+footer
+{
+	background-color: lightgrey;
+}
+header
+{
+	text-align: right;
+}
+p
+{
+	font-size: large;
+	font-family: Arial, Georgia, serif;
+	text-align: center;
+}
+aside
+{text-align: center;}
